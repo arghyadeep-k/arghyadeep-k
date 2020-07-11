@@ -1,9 +1,14 @@
-### Hi there 👋
+## Hi, I'm Arghyadeep 👋🏼
 
-<!--
-**arghyadeep-k/arghyadeep-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A DevOps engineer 👨‍💻 developing code to automate stuff at work while dabbling with Node.js & Python on the weekends for hobby projects. Passionate about open-source technologies and contributing as and when possible. Learning frontend and trying to setup my own blog for sharing content.
 
-Here are some ideas to get you started:
+### Presence around the web 🌏:
+- Sharing updates on <a href="https://twitter.com/arghyadeep_k">Twitter</a>
+- Publishing packages at <a href="https://www.npmjs.com/~arghyadeep">NPM</a>
+- Professional profile at <a href="https://www.linkedin.com/in/arghyadeep-kundu/">LinkedIn</a>  
+
+<!--Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
