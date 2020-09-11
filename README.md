@@ -3,7 +3,7 @@
 A DevOps engineer 👨‍💻 developing code to automate stuff at work while dabbling with Node.js & Python on the weekends for hobby projects. Passionate about open-source technologies and contributing as and when possible. Learning frontend and trying to setup my own blog for sharing content.
 
 ### Presence around the web 🌏:
-- Sharing updates on <a href="https://twitter.com/arghyadeep_k">Twitter</a>
+- Sharing updates on <a href="https://twitter.com/arghyadeep_k">Twitter</a> & <a rel="me" href="https://fosstodon.org/@arghyadeep">Mastodon</a>
 - Publishing packages at <a href="https://www.npmjs.com/~arghyadeep">NPM</a>
 - Resolving issues at <a href="https://stackoverflow.com/users/9647762/arghya">Stack Overflow</a>
 - Professional profile at <a href="https://www.linkedin.com/in/arghyadeep-kundu/">LinkedIn</a>  
