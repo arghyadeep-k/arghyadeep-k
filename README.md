@@ -2,6 +2,8 @@
 
 A DevOps engineer 👨‍💻 developing code to automate stuff at work while dabbling with Node.js & Python on the weekends for hobby projects. Passionate about open-source technologies and contributing as and when possible. Learning frontend and trying to setup my own blog for sharing content.
 
+[![Arghyadeep's Github Stats](https://github-readme-stats.vercel.app/api?username=arghyadeep-k&count_private=true&show_icons=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Presence around the web 🌏:
 - Sharing updates on <a rel="me" href="https://fosstodon.org/@arghyadeep">Mastodon</a> & <a href="https://twitter.com/arghyadeep_k">Twitter</a>
 - Publishing packages at <a href="https://www.npmjs.com/~arghyadeep">NPM</a> & <a href="https://deno.land/x">Deno Land</a>
